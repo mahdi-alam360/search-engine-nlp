@@ -1,0 +1,7 @@
+[
+  {"id":"registration","title":"Medical image registration","text":"Image registration aligns images into a shared coordinate system. Deformable registration permits local shape changes. Dice overlap and Jacobian determinants measure different aspects of registration quality."},
+  {"id":"curriculum","title":"Coarse to fine curriculum learning","text":"Curriculum learning organizes training examples or tasks by difficulty. A multi resolution curriculum can start with coarse image representations and move to finer resolutions. Compare the curriculum with a fixed resolution baseline using ablation studies."},
+  {"id":"retrieval","title":"BM25 document retrieval","text":"BM25 ranks documents using term frequency, inverse document frequency and document length normalization. It is a lexical retrieval method. It does not use vector embeddings or generate natural language answers."},
+  {"id":"evaluation","title":"Reproducible machine learning evaluation","text":"Reproducible experiments record data splits, random seeds, training configuration and evaluation metrics. Ablation studies isolate the contribution of individual components. Small example datasets cannot establish production scale performance."},
+  {"id":"clustering","title":"Colour clustering","text":"K means clustering groups observations around centroids. Colour clustering can group pixel values to summarize dominant image palettes. Results depend on the selected number of clusters and initialization."}
+]
